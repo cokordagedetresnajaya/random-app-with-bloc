@@ -1,4 +1,4 @@
-# bloc_architecture
+# Random App with Bloc
 
 A new Flutter project.
 
